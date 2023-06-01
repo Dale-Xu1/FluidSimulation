@@ -11,3 +11,5 @@ This is a real-time Eulerian (grid-based) fluid simulation written as an HLSL co
 ## Possible Improvements
 
 Currently, boundary conditions are not being checked, and the simulation acts as if fluid may exit the bounds of the screen.
+
+![](https://github.com/Dale-Xu1/FluidSimulation/assets/69087617/5959052a-903c-4aa6-b3bd-1c610d33b981)
